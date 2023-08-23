@@ -1,0 +1,3 @@
+The sculptures' objects are large in size, due to being photogrammetry objects. 
+
+Source of all the sculptures: https://sketchfab.com/
