@@ -21,6 +21,7 @@ There are 3 main areas in the Museum:
 - The Player gains knowledge for some of the most famous sculptures of each ancient civilization
 
 ### Play the game
-The executable file of the original version of the Museum of Sculptures can be downloaded from [here](https://www.dropbox.com/scl/fo/2hu082qlctu6oo8d075x3/h?rlkey=9bgewnk0aejynbfchwbgj6kpy&dl=0). 
-> System requirements: 
+The executable file of the original version of the Museum of Sculptures can be downloaded from [here](https://www.dropbox.com/scl/fo/2hu082qlctu6oo8d075x3/h?rlkey=9bgewnk0aejynbfchwbgj6kpy&dl=0). <br>
+
+**System requirements:** 
 - Windows OS
